@@ -1,0 +1,21 @@
+.departamento {
+    background-color: white;
+    padding: 10px 20px;
+    display: flex;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+  }
+  
+  .departamento > div {
+    display: flex;
+  }
+
+  .table {
+    display: flex;
+    flex-direction: column;
+    /* justify-content: space-between; */
+    align-items: center;
+    /* padding: 6rem;
+    min-height: 100vh; */
+    width: 1220px;
+    margin: 50px auto
+  }
